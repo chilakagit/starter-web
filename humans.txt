@@ -12,6 +12,8 @@ i have to learn docker and kubernetes this month
 editing the file in develop branch
 naveen
 practice
+Docker
+kubernetes
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
