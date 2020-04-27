@@ -8,6 +8,10 @@ This is an Introduction Section
 
 ##Purpose
 
+As started
+
 ##Deployment
+
+As started
 
 ##How To Contribute
