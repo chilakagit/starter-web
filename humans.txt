@@ -1,4 +1,4 @@
-# humanstxt.org/
+humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
@@ -19,4 +19,4 @@ iam good
 
 Todays date is 27 april
 
-Level III IT organization
+Todays date is 27 april and created conflict
