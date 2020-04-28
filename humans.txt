@@ -8,7 +8,7 @@ humanstxt.org/
 
 # THANKS
 
-    <name>
+   Thanks to jason Taylor
 
 # TECHNOLOGY COLOPHON
 
