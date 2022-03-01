@@ -18,3 +18,6 @@ humanstxt.org/
 changing the humans
 
 Redhat
+
+
+Edited this file to work with editing files content
